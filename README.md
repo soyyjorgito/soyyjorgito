@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </div>
+
 </br>
-<hr>
 <div >
   <p>Mi conocimiento <b>actual:</b></p>
   <ul>
