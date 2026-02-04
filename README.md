@@ -1,5 +1,5 @@
-<h1 align="center">Hola! Soy Jorgito</h1>
-<p align="center">Soy un <b>Junior Full Stack Developer
+<h1 align="center">Hi! I'm Jorgito.</h1>
+<p align="center">I'm a <b>Junior Full Stack Developer
   
 <div align="center">
   <a href="https://github.com/soyyjorgito">
@@ -14,7 +14,7 @@
 
 </br>
 <div >
-  <p>Mi conocimiento <b>actual:</b></p>
+  <p>My actual <b>knowledge:</b></p>
   <ul>
     <li>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
